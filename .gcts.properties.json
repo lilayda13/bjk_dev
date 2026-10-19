@@ -7,6 +7,7 @@
     "formatVersion": "6",
     "keepClient": "false",
     "metaInformation": ".gctsmetadata/",
+    "subdirectory": "scr/",
     "tableContent": "true"
   }
 }
